@@ -1,0 +1,27 @@
+/***
+* Name of the Project: Dice
+* Author: Somnath Sahu
+* Email: somnath.s@weroko.com
+* Org: weroko Innovation and Solution LLP
+* Org URL: www.weroko.com
+***/
+
+body{
+    background: #03e2ff;
+    
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1{
+    margin-top: 5%;
+    font-size: 48px;
+}
+.img-dice{
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+
